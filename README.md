@@ -33,4 +33,3 @@ For Brokers & Exchanges: https://www.secantx.ai/brokers-exchanges
 ## Contact
 
 Team: SecantX AI  
-Demo: https://youtu.be/eCDzl9sJE74
