@@ -1,6 +1,6 @@
-# SecantX AI – Quant AI Tool (Solana Colosseum)
+# SecantX AI – Proactive vision first AI for traders
 
-SecantX AI is a desktop Quant AI tool that sees your screen, understands context, and delivers clear, real-time insights to help traders research safely and faster. This submission highlights what we've built so far and how our credits model works.
+SecantX AI is a proactive agentic Quant AI tool that sees your screen, understands context, and delivers clear, real-time insights to help traders research safely and faster. 
 
 ## Demo
 
@@ -18,11 +18,6 @@ Deep live data sources: Crypto (CEX/DEX), equities, DeFi TVL/revenue, macro, and
 
 Trust & safety: Premium/credits gating with non-custodial design (users sign their own actions).
 
-## What's next
-
-We're continuing to use platform credits powered by our SPL utility token (no per-action fees). Credits unlock premium analysis today and will cover trading actions as they roll out. Execution remains user-signed and non-custodial.
-
-x402 is reserved for non-custodial auto-trading handshake (client-signed). Pricing stays credits; x402 is the verification/transport layer for automated flows. Reference pattern: [Solana ChatGPT Kit x402 flow](https://github.com/The-x-35/solana-chatgpt-kit/).
 
 ## Learn more
 
